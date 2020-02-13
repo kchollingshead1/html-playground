@@ -1,0 +1,18 @@
+h1,h2,h3,h4,h5,h6 {
+    color: black;
+  }
+  
+
+header{
+    font-family: fantasy;
+    text-align: center;
+    background-color: darkgrey;
+    border: dashed;
+    border-width: 1px;
+    padding: 20px;
+}
+
+footer{
+    font-family: fantasy;
+}
+
